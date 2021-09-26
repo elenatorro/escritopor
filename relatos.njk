@@ -1,0 +1,12 @@
+---
+permalink: /relatos/
+layout: layouts/home.njk
+---
+<div class="post-content">
+  <h1>Relatos</h1>
+
+  {% for item in collections.relatos %}
+    {% set itemUrl %}/relatos/{{ item.data.title | slug }}/{% endset %}
+    <a href="{{ itemUrl | url }}">{{ itemUrl }}</a>
+  {% endfor %}
+</div>

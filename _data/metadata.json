@@ -1,0 +1,21 @@
+{
+  "title": "Elena Torró",
+  "url": "https://escribo.elenatorro.com/",
+  "language": "es",
+  "description": "Sitio personal donde comparto relatos y otros escritos.",
+  "feed": {
+    "subtitle": "Sitio personal donde comparto relatos y otros escritos.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://escribo.elenatorro.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://escribo.elenatorro.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Your Name Here",
+    "email": "elenatorro@gmail.com",
+    "url": "https://escribo.elenatorro.com/sobre-mi/"
+  }
+}

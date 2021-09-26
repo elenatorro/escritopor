@@ -1,0 +1,30 @@
+{
+  "name": "escrito-por-elenatorro",
+  "version": "5.0.2",
+  "description": "Blog de relatos de Elena Torro. Tema basado en eleventy-base-blog.",
+  "scripts": {
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "start": "eleventy --serve",
+    "debug": "DEBUG=* eleventy"
+  },
+  "author": {
+    "name": "Elena Torro",
+    "email": "elenatorro@gmail.com",
+    "url": "https://elenatorro.com/"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-navigation": "^0.3.2",
+    "@11ty/eleventy-plugin-rss": "^1.1.1",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
+    "luxon": "^1.26.0",
+    "markdown-it": "^12.1.0",
+    "markdown-it-anchor": "^8.1.2"
+  },
+  "dependencies": {
+    "eleventy-plugin-wordcount": "^1.0.5"
+  }
+}
