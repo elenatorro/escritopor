@@ -6,6 +6,18 @@
   --navy: #17050F;
   --blue: #082840;
   --white: #fff;
+
+  --primary-background-color: var(--white);
+  --primary-font-color: var(--darkgray);
+  --primary-link-color: var(--blue);
+  --primary-border-color: var(--lightgray);
+}
+
+.dark-mode {
+  --primary-background-color: var(--darkgray);
+  --primary-font-color: var(--lightgray);
+  --primary-link-color: --white;
+  --primary-border-color: var(--lightgray);
 }
 
 /* Global stylesheet */
@@ -18,8 +30,9 @@ body {
   padding: 0;
   margin: 0;
   font-family: 'PT Serif', -apple-system, system-ui, sans-serif;
-  color: var(--darkgray);
-  background-color: var(--white);
+  color: var(--primary-font-color);
+  background-color: var(--primary-background-color);
+  min-height: 100vh;
 }
 p:last-child {
   margin-bottom: 0;
@@ -34,10 +47,7 @@ p,
   line-height: 1.45;
 }
 a[href] {
-  color: var(--blue);
-}
-a[href]:visited {
-  color: var(--navy);
+  color: var(--primary-link-color);
 }
 main {
   padding: 1rem;
@@ -46,7 +56,7 @@ main :first-child {
   margin-top: 0;
 }
 header {
-  border-bottom: 1px dashed var(--lightgray);
+  border-bottom: 1px dashed var(--primary-border-color);
   display: flex;
   justify-content: center;
   width: 100%;
@@ -181,7 +191,7 @@ code {
 .postlist-date,
 .postlist-item:before {
   font-size: 0.8125em; /* 13px /16 */
-  color: var(--darkgray);
+  color: var(--primary-font-color);
 }
 .postlist-date {
   word-spacing: -0.5px;
@@ -216,7 +226,7 @@ code {
   margin-left: 0.6666666666667em; /* 8px /12 */
   margin-top: 0.5em; /* 6px /12 */
   margin-bottom: 0.5em; /* 6px /12 */
-  color: var(--darkgray);
+  color: var(--primary-font-color);
   border: 1px solid var(--gray);
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;
@@ -228,7 +238,7 @@ a[href].post-tag:visited {
 }
 a[href].post-tag:hover,
 a[href].post-tag:focus {
-  background-color: var(--lightgray);
+  background-color: var(--primary-border-color);
 }
 .postlist-item > .post-tag {
   align-self: center;
@@ -294,4 +304,82 @@ a[href].direct-link:focus:visited,
 
 .capitalize {
   text-transform: capitalize;
+}
+
+
+
+/* The switch - the box around the slider */
+
+.switch {
+  position: absolute;
+  width: 60px;
+  height: 35px;
+  margin: .5em 0;
+  right: 1em;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #d2d2d2;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "🌞";
+  height: 35px;
+  width: 35px;
+  left: 0px;
+  bottom: 4px;
+  top: 0;
+  bottom: 0;
+  margin: auto 0;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  font-size: 1.5em;
+  background-color: white;
+  border: 1px solid #d2d2d2;
+  box-sizing: border-box; 
+}
+
+input:checked + .slider {
+  background-color: #d2d2d2;
+}
+/* 
+input:focus + .slider {
+  box-shadow: 0 0 1px #ccc;
+} */
+
+input:checked + .slider:before {
+  content: "🌚";
+  -webkit-transform: translateX(24px);
+  -ms-transform: translateX(24px);
+  transform: translateX(24px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
 }
