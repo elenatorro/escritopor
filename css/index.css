@@ -9,6 +9,7 @@
 
   --primary-background-color: var(--white);
   --primary-font-color: var(--darkgray);
+  --secondary-font-color: var(--navy);
   --primary-link-color: var(--blue);
   --primary-border-color: var(--lightgray);
 }
@@ -16,6 +17,7 @@
 .dark-mode {
   --primary-background-color: var(--darkgray);
   --primary-font-color: var(--lightgray);
+  --secondary-font-color: var(--darkgray);
   --primary-link-color: --white;
   --primary-border-color: var(--lightgray);
 }
@@ -239,6 +241,7 @@ a[href].post-tag:visited {
 a[href].post-tag:hover,
 a[href].post-tag:focus {
   background-color: var(--primary-border-color);
+  color: var(--secondary-font-color);
 }
 .postlist-item > .post-tag {
   align-self: center;
