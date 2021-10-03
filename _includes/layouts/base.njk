@@ -13,16 +13,10 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=PT+Serif&display=swap" rel="stylesheet"> 
-
-    <script>
-    // Render blocking JS:
-    if (localStorage.theme) document.documentElement.setAttribute("data-theme", localStorage.theme);
-    </script>
   </head>
 
   <body>
     <header>
-      {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
       <ul class="nav">
       {%- for entry in collections.all | eleventyNavigation %}
         <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
@@ -34,7 +28,6 @@
         <span class="slider round"></span>
       </label>
       </div>
-      {# <button id='theme-switch'>Toggle</button> #}
     </header>
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>

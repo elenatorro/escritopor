@@ -20,6 +20,9 @@ function toggle() {
 
   body.classList.add(theme)
 
-  toggleButton.setAttribute('checked', theme && theme === 'dark-mode')
+  if (theme && theme === 'light-mode') {
+    toggleButton.setAttribute('checked', true)
+  }
+    
   toggleButton.addEventListener('change', toggle)
 })()
