@@ -6,6 +6,9 @@ tags:
   - ciencia ficción 🚀
   - relato 📝
 layout: layouts/post.njk
+curiosities:
+  - El relato lo escribí simplemente porque me apetecía escribir un relato en segunda persona, y a partir de ahí surgió el resto de la historia.
+  - Es mi relato favorito de los que he escrito hasta ahora.
 ---
 
 Por fin desenroscas los párpados dejando que tus ojos reciban la luz del día. Ya era hora. No recordabas la lucha que se está librando en tu cabeza, ¿verdad? Como todas las mañanas desde el primer día, y ya van veintiocho. ¿Cuándo vas a acostumbrarte? Supones que cuando dejes de pensar que existen dos consciencias y entiendas que solo hay una, cuando te aceptes y no sientas que eres tu propia intrusa. No lo eres.

@@ -7,6 +7,10 @@ tags:
   - relato 📝
   - la daga de dagrun 🗡️
 layout: layouts/post.njk
+curiosities:
+  - Comencé escribir esta historia porque me apetecía escribir un cuento de fantasía narrado por tres protagonistas distintas y en el que hiciera frío.
+  - La protagonista de esta parte, Katerina, me recuerda a Lady Brienne, de Juego de Tronos.
+  - Las palabras 'caballera' y 'condotiera' no existen en el diccionario.
 ---
 
 ### Katerina

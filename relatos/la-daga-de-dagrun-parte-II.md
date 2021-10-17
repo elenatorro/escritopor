@@ -7,6 +7,10 @@ tags:
   - relato 📝
   - la daga de dagrun 🗡️
 layout: layouts/post.njk
+curiosities:
+  - El personaje está inspirado en la clase del WoW que siempre escogía, una elfa de sangre sacerdotisa.
+  - Viridi era, de hecho, el nombre que utilizaba en el WoW.
+  - La palabra 'clériga' no existe.
 ---
 
 ### Viridi

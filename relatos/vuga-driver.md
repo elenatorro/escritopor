@@ -7,6 +7,10 @@ tags:
   - relato 📝
   - mundo bestiario 🐲
 layout: layouts/post.njk
+curiosities:
+  - El relato lo envié a la Antología Bestiario de Hela Ediciones, pero no fue seleccionado.
+  - La idea la rescaté de mis notas, donde la apunté hace unos tres años, y creí que encajaba en la temática del concurso.
+  - Este relato está enmarcado en el mismo universo que "La Mascota" y "La Toponauta".
 ---
 
 El motor de la Vuga llevaba un tiempo chupando energía de la reserva. Karme le dio una patada a la tapa del panel de conexiones, como si eso lo fuera a arreglar. Necesitaba encontrar una estación de servicio en medio de un planeta de mierda y cargar las baterías antes de recoger el paquete. Se miró, sin querer, en uno de los espejos retrovisores de la nave y ahí estaba: otra cana. Brillando impetuosa en medio de un mar de rizos castaño-violáceos, fruto del estrés, el mal humor, y por qué no admitirlo también, de la edad.

@@ -7,6 +7,9 @@ tags:
   - relato 📝
   - la daga de dagrun 🗡️
 layout: layouts/post.njk
+curiosities:
+  - El personaje está inspirado en la clase 'Pícaro' o 'Rogue' del WoW.
+  - La idea de 'La Orden de Asesinas de Keres' la rescaté de una idea antigua.
 ---
 
 ### Cyria
@@ -34,6 +37,7 @@ Existen infinitas maneras de matar a una persona, pero llegar al momento en el q
 El entrenamiento de las Asesinas de Keres tenía un gran alcance y tocaba distintas materias. Aprendían a sobrevivir en situaciones críticas y adversas, a mimetizarse con el entorno a su merced, a ser vistas solo si así lo querían. Ejercitaban su resistencia al dolor, a la presión y al malestar, alcanzando los límites de lo humanamente soportable. Eran adiestradas en el manejo de armas, sobre todo las más discretas y mortíferas como cerbatanas, cuchillos y dagas. Por supuesto, eran diestras en el combate cuerpo a cuerpo, ágiles, rápidas y fuertes. Asimismo, estudiaban venenos, sustancias y sus propiedades. Y, por encima de todo, aprendían a no temer a la muerte.
 
 No descansaban ningún día de la semana. Era el entrenamiento más duro al que podía someterse una persona.
+
 Y Cyria, dos años después, lo consiguió. Aunque claro estaba, aquello solo era el principio. Tras una serie de exitosas misiones se hizo con el mayor rango de asesina, y utilizando las habilidades que había adquirido, urdió con sigilo y astucia un minucioso plan. Logró le encomendaran la misión que se había jurado desmantelar, sin levantar ninguna sospecha, como si dicha asignación no supusiera para ella más que otra misión bien culminada que añadir a su lista de éxitos. ¿Y qué tenía que hacer? Muy simple. Solo tenía que encontrar a la princesa de Raguel y matarla.
 
 Surgieron, contra todo pronóstico, dos contratiempos. Y ambos contratiempos tenían nombre de mujer.

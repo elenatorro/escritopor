@@ -7,6 +7,10 @@ tags:
   - relato 📝
   - mundo bestiario 🐲
 layout: layouts/post.njk
+curiosities:
+  - Este relato aparece en el primer número de la revista Droids&Druids.
+  - Está enmarcado en el mismo universo que "Vuga Driver" y "La Toponauta".
+  - Lo escribí un verano en el que estaba obsesionada con vivir algún día en un domo geodésico (sí, hay empresas que construyen viviendas con esta forma)
 ---
 
 La nueva casa de Mara no era demasiado lujosa, más bien todo lo contrario. Era bastante austera, pero todas las casas de las granjas colindantes lo eran: domos geodésicos unifamiliares de una única planta con dos habitaciones, cocina, comedor y cuarto de baño. Hechos principalmente de madera, y todos provistos de un pequeño jardín rodeado de una valla.

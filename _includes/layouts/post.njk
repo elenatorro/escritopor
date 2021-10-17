@@ -15,9 +15,26 @@ templateClass: tmpl-post
 
 <p>Palabras: {{ content | wordCount }}</p>
 
-<div class="post-content">
-  <h1>{{ title }}</h1>
-  {{ content | safe }}
+<div class="post-layout">
+  {%- if curiosities %}
+    <section class="post-content with-aside">
+      <h1>{{ title }}</h1>
+      {{ content | safe }}
+    </section>
+    <aside class="post-aside">
+      <h2>💡 Curiosidades</h2>
+      <ul>
+      {%- for curiosity in curiosities %}
+        <li>{{ curiosity }}</li>
+      {%- endfor %}
+      </ul>
+    </aside>
+  {%- else %}
+    <section class="post-content">
+      <h1>{{ title }}</h1>
+      {{ content | safe }}
+    </section>
+  {%- endif %}
 </div>
 
 {%- if collections.posts %}
