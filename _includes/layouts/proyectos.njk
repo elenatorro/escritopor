@@ -1,0 +1,37 @@
+---
+layout: layouts/home.njk
+templateClass: tmpl-page
+---
+
+<h1>Escrito por Elena Torró</h1>
+
+<h2>Proyectos</h2>
+
+{% set proyectos = collections.proyectos %}
+<ul class="postlist" style="counter-reset: start-from {{ (proyectos.length) + 1 }}">
+{% for post in proyectos | sorted %}
+  <li class="postlist-item">
+    <a href="{{ post.data.nanowrimo }}" class="postlist-link" target="_blank"><h3>{{ post.data.title }}</h3></a>
+
+    <p>📃 Palabras: {{post.data.current}}/{{post.data.goal}}</p>
+
+    {% if post.data.status %}
+    <p>✍🏻 Estado: {{ post.data.status }}</p>
+    {% endif %}
+
+    {% if post.data.description %}
+    <p>🎬 Sinopsis: {{ post.data.description }}</p>
+    {% endif %}
+
+    {%- if post.data.curiosities %}
+        <p>💡 Curiosidades:</p>
+        <ul>
+        {%- for curiosity in post.data.curiosities %}
+          <li><p>{{ curiosity }}</p></li>
+        {%- endfor %}
+        </ul>
+    {%- endif %}
+
+  </li>
+{% endfor %}
+</ul>

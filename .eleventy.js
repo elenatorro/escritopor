@@ -59,7 +59,7 @@ module.exports = function(eleventyConfig) {
   });
 
   function filterTagList(tags) {
-    return (tags || []).filter(tag => ["all", "nav", "post", "posts", "relato", "relatos"].indexOf(tag) === -1);
+    return (tags || []).filter(tag => ["all", "nav", "post", "posts", "relato", "relatos", "proyecto"].indexOf(tag) === -1);
   }
 
   eleventyConfig.addFilter("filterTagList", filterTagList)
@@ -86,6 +86,20 @@ module.exports = function(eleventyConfig) {
     });
 
     return [...relatos]
+  })
+
+  eleventyConfig.addCollection("proyectos", function(collection) {
+    const proyectos = new Set();
+
+    collection.getAll().forEach(item => {
+      (item.data.tags || []).forEach(tag => {
+        if (tag.includes('wip')) {
+          proyectos.add(item)
+        }
+      });
+    });
+
+    return [...proyectos]
   })
 
   // Copy the `img` and `css` folders to the output
