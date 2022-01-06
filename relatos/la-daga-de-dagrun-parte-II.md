@@ -13,11 +13,20 @@ curiosities:
   - La palabra 'clériga' no existe.
 ---
 
+Escucha la narración:
+
+<div class="ivoox-player">
+  <iframe id='audio_80199872' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='width:100%;' src='https://www.ivoox.com/player_ej_80199872_6_1.html'></iframe>
+</div>
+
+
 ### Viridi
 
-La belleza del invierno, con sus cielos plateados surcados por los débiles rayos del sol, que intentaban abrirse paso entre la niebla como flechas doradas y así conferir un atisbo de calidez al manto de aire helado que abrazaba la ciudadela, hacía sonreír a la joven Viridi. Le fascinaba esa belleza de las pequeñas cosas, de lo cotidiano y rutinario, del paso del tiempo en la ciudadela y en sus habitantes. Y en medio de fugacidad de los días y de la veleidad de las estaciones, lo que más feliz la hacía era vivir en la Catedral de Eshkigal, granDiosa e imperturbable, una salvaguardia, un templo de paz.
+La belleza del invierno, con sus cielos plateados surcados por los débiles rayos del sol, que intentaban abrirse paso entre la niebla como flechas doradas y así conferir un atisbo de calidez al manto de aire helado que abrazaba la ciudadela, hacía sonreír a la joven Viridi. Le fascinaba esa belleza de las pequeñas cosas, de lo cotidiano y rutinario, del paso del tiempo en la ciudadela y en sus habitantes. Y en medio de fugacidad de los días y de la veleidad de las estaciones, lo que más feliz la hacía era vivir en la Catedral de Eshkigal, grandiosa e imperturbable, una salvaguardia, un templo de paz.
 
-Viridi fue marcada desde el día de su nacimiento como clériga. Sus cabellos pelirrojos y sus ojos negros como la más profunda oscuridad lo reflejaban, así lo habían querido las Diosas al bendecirla antes de llegar al mundo. No obstante, no fue hasta los dieciséis años cuando, tras haber dedicado toda su vida al estudio, al aprendizaje de la lengua de las Diosas, a la devoción más absoluta a la Iglesia, cuando recibió el Don. Cuando sintió a las Diosas dentro de ella. Cuando llamó a la Diosa del agua y derramó el contenido de la jarra. Cuando llamó a la Diosa del cambio y las gotas de lluvia se evaporaron antes de llegar al suelo. Los textos decían que se debía a una posesión demoníaca, mas si así lo era, Viridi jamás percibió mal alguno.
+Viridi fue marcada desde el día de su nacimiento como clériga. Sus cabellos pelirrojos y sus ojos negros como la más profunda oscuridad lo reflejaban, así lo habían querido las Diosas al bendecirla antes de llegar al mundo. No obstante, no fue hasta los dieciséis años cuando, tras haber dedicado toda su vida al estudio, al aprendizaje de la lengua de las Diosas, a la devoción más absoluta a la Iglesia, cuando recibió el Don.
+
+Cuando sintió a las Diosas dentro de ella. Cuando llamó a la Diosa del agua y derramó el contenido de la jarra. Cuando llamó a la Diosa del cambio y las gotas de lluvia se evaporaron antes de llegar al suelo. Los textos decían que se debía a una posesión demoníaca, mas si así lo era, Viridi jamás percibió mal alguno.
 
 Eshkigal era toda las Diosas, y todas las Diosas eran Eshkigal. Y ella, junto con las Diosas, con sus hermanas clérigas, y con Eshkigal, eran una sola. No era sencillo hablar con las Diosas, y siempre conllevaba un sacrificio, ya que dicha comunicación requería energía en forma de calor.
 
@@ -30,6 +39,7 @@ Un vagabundo de la hilera que esperaba su ración de comida se lanzó como loco 
 Con miedo, el vagabundo vio cómo la clériga se fue acercando hasta él, hasta acabar posando dos dedos sobre su frente, trazando en ella el signo de una cruz. Alguien había llamado a la guardia, que corría desde lo lejos. Cuando aquel hombre pensaba que había llegado a su fin, la clériga se interpuso entre el atacante y los guardias, y alzó la voz, dirigiéndose al pueblo.
 
 — Este hombre es una víctima del hambre y de la fiebre que esta provoca, del infortunio que nos podía haber tocado a cualquiera de nosotros —fue creciendo a su alrededor el corro de feligreses y ciudadanos curiosos—. Le entrego aquí pues dos raciones de comida, ya que es consciente de que se ha dejado llevar por el mal y se arrepiente de sus actos, haciendo entrega de su alma a las Diosas, a las que ahora les debe la vida ¿No es así, hermano?
+
 Incrédulo, pero agradecido, el hombre se deshizo en reverencias y agradecimientos a la clériga, demostrando su arrepentimiento y jurando que no volvería a cometer una estupidez como la que acababa de perpetrar. A Viridi la incomodaba hablar con las Diosas en público, pero su función como clériga era, como lo habían enseñado, la de catequizar.
 
 Más tarde, uno de los monjes le prestó a Viridi un hábito de los que ellos utilizaban, que era, como todos los demás, del color de la tierra, simple y austero, para protegerse del frío mientras le preparaban una túnica de clériga. Viridi agradeció enormemente el ofrecimiento, ya que había comenzado a sentir el frío en la piel y a temblar levemente.
@@ -123,6 +133,7 @@ No comprendía a qué se debía dicha petición, mas así lo hizo. Sacó de su f
 Viridi tragó saliva.
 
 — Mi nombre es Viridi, y soy clériga de la Iglesia de Eshkigal. Llevo cinco años sirviendo en el templo, como así me lo han encomendado las Diosas —hizo una pausa pues poco más de su vida había que añadir, pero la mirada ambarina de la asesina le indicó que necesitaba más explicaciones—. Acabé en la estancia de la Madre Superiora por error. Mi túnica se había rasgado y me dieron una de monje. Decidí, en mala hora, gastar una broma a mis hermanas clérigas ocultándome tras el hábito, y así fue cómo la Madre Angra me interceptó, sin saber que era yo la que se escondía bajo esas ropas. Avergonzada, no me atreví a revelar el secreto.
+
 La asesina escuchó con atención palabra por palabra, analizando cada respiración, cada gesto. Cuando la clériga hubo concluido, se apoyó en el respaldo de su silla, cruzando los brazos. Viridi rezaba para sus adentros que no estuviera debatiéndose entre matarla o dejarla con vida. Sabía que podía cortarle el cuello de una cuchillada a tal velocidad que no tendría oportunidad de efectuar siquiera un último parpadeo.
 Antes de continuar, su acompañante alzó la mano y pidió vino, que poco tardaron en llevar a la mesa. Viridi no bebía fuera de la eucaristía, pero dadas las circunstancias hizo una excepción.
 
@@ -157,6 +168,7 @@ La acusación cayó como un jarro de agua fría sobre Cyria, cuya mirada se resq
 Viridi llamó a la Diosa de la verdad, y notó cómo a su alrededor todo se enfriaba. Tendió las manos boca arriba, y la asesina comprendió, quitándose sus guantes y colocando sus palmas sobre las de la clériga. Viridi sujetó esas manos que tantas vidas se habían llevado entre las suyas, cerrando los ojos. El color oscuro de la piel de la asesina contrastaba con la palidez de la clériga, al mismo tiempo que se entrelazaban y fundían con armonía. 
 
 Viridi posó sus labios en los dedos de Cyria. Rezó a las Diosas, y les pidió fuerza. Ella había sido elegida para difundir la Santa Palabra, y lo que estaba aconteciendo no era sino un reto que había de superar como lo que era, una clériga que abogaba por la justicia y la paz a través de las Diosas de Eshkigal.
+
 La asesina describió cómo era aquel objeto bautizado como Ojo de Dagrun, y Viridi supo por la descripción a qué objeto se refería y dónde encontrarlo. Se trataba de una esfera de cuarzo verdoso que había visto en infinidad de ocasiones, pues lucía incrustada en un simple collar que solía llevar al cuello alguna de las matriarcas. Entonces comprendió que lo estaban custodiando, pues no querían correr el riesgo de esconderlo donde pudiera ser robado sin ellas darse cuenta.
 
 No tardarían en echar en falta a la Madre Agra, o todavía peor, en encontrar su cadáver desangrado descomponiéndose en el fondo de un baúl. Bastaría con seguir el olor a muerte que pronto comenzaría a emanar tras la puerta cerrada con llave, que si bien les daría algo de tiempo, no era infranqueable. Habían de actuar pronto, por lo que decidieron recuperar el Ojo de Dagrun aquella misma noche. Viridi le hizo prometer a Cyria que no mataría a sangre fría a ninguna matriarca si no había razones para ello, a lo que esta aceptó a regañadientes, mas no podría prometer evitar una muerte si esta se producía en defensa propia.

@@ -13,6 +13,14 @@ curiosities:
   - Las palabras 'caballera' y 'condotiera' no existen en el diccionario.
 ---
 
+Escucha la narración:
+
+<div class="ivoox-player">
+  <iframe id='audio_79942830' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='width:100%;' src='https://www.ivoox.com/player_ej_79942830_6_1.html'>
+  </iframe>
+</div>
+
+
 ### Katerina
 
 La figura del castillo se intuía tras la niebla que cubría la ciudadela desde bien entrada la mañana. El color del invierno se ceñía en las murallas, los caminos y las casas, y el frío sonrojaba la punta de la nariz de Lady Katerina. Su armadura, aun empañada, reflejaba la escasa luz invernal de aquel extraño amanecer. Esta se disolvía entre la bruma que la rodeaba, dibujando a su alrededor un halo que, aunque tenue, emanaba poder.
@@ -49,6 +57,7 @@ Se presentó en la entrada principal de la ciudadela sosteniendo en alto su insi
 Y ahora había regresado.
 
 Con paso firme se dirigió a una posada, donde esperó no la reconocieran, y se presentó como una condotiera llamada Rina. Preguntó por la mejor alcoba y ordenó, a cambio de una generosa cantidad de monedas, que le preparan un baño caliente. Mandó asimismo lavar sus ropas, tanto las que portaba como las que guardaba en el zurrón.
+
 Por primera vez en varios días, se concedió una tregua. Había caminado durante toda la noche, a pesar de que la luna hiciera los senderos más peligrosos. Tan solo se enfrentó a dos ladrones de poca monta, que lejos de contraatacar huyeron despavoridos. Un camino tranquilo pese a que lo recorrió a pie, en solitario, pues había dejado su yegua en la aldea más cercana a Raguel, donde pernoctó dos días antes de continuar hacia los muros de la ciudadela. Su fiel compañera le habría entorpecido el viaje, más que ayudarla. Le dolían los pies, tenía los huesos entumecidos del frío, y se dejó vencer por el sueño entre los vapores que emanaban de la bañera.
 
 Más tarde, una vez en su alcoba, encendió la chimenea y sacó del zurrón un libro que había llevado consigo durante las últimas semanas. Era el único documento escrito que mencionaba la Daga de Dagrun, casi de pasada. Lo había releído infinidad de veces, con la esperanza de que tarde o temprano brotara de sus páginas alguna respuesta. 
@@ -85,6 +94,7 @@ La noche del asalto a palacio.
 Se dio la vuelta y siguió con la mirada a la asesina, que para su asombro, se sentó en la mesa que antes ocupaba, donde la esperaba la clériga. Todas sus alertas despertaron, aquel encuentro carecía de sentido, y era cuanto menos sospechoso. Cerró la puerta y se quedó inmóvil, observándolas.
 
 La clériga sacó un pequeño libro, que reconoció como el Testamento de Eshkigal, y santiguó a la asesina. Leyó sus labios y reconoció el salmo del perdón. ¿Habría acudido verdaderamente a la taberna para liberarse de sus pecados? ¿Se trataba de una asesina redimida? ¿Por qué no se confesaba entonces en el confesionario de la Catedral?
+
 Se estaba distrayendo, y eso le sucedía con frecuencia. Daba igual si la asesina quería redimir sus pecados, y daba igual si se traía entre manos negocios turbios con la clériga. No era asunto suyo. Había regresado a Raguel para conocer la historia de la Daga de Dagrun, había vuelto a la raíz del problema para intentar comprender qué hacía en el castillo. Y allí era donde se dirigía, a donde debía haber partido hacía un buen rato.
 Salió de la posada, cerrando enérgicamente la puerta a sus espaldas, y jurándose a sí misma no entretenerse por el camino. Anduvo entre las casas rumbo al castillo con paso decidido, y cuando llegó a la entrada, la guardia le cerró el paso.
 

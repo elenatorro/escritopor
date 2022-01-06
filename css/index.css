@@ -441,3 +441,8 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
+.ivoox-player {
+  width: 100%;
+  max-width: 42em;
+  padding: 0;
+}

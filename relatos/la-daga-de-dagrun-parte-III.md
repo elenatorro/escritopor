@@ -12,6 +12,13 @@ curiosities:
   - La idea de 'La Orden de Asesinas de Keres' la rescaté de una idea antigua.
 ---
 
+Escucha la narración:
+
+<div class="ivoox-player">
+  <iframe id='audio_80492789' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='width:100%;' src='https://www.ivoox.com/player_ej_80492789_6_1.html'></iframe>
+</div>
+
+
 ### Cyria
 
 Dicen que los ojos amarillos de las Asesinas de Keres son el resultado de una posesión demoníaca, una prueba que todo miembro de la Orden ha de pasar para mostrar que su alma es tan impura que un demonio puede alojarse dentro sin problema alguno.
@@ -99,6 +106,7 @@ La clériga, por primera vez en su vida, arrugó las cejas.
 — Las Diosas me han hablado —juntó las palmas de las manos sobre su pecho—. Y me han revelado que vosotras andáis en pos de la daga con el pernicioso propósito de utilizarla. Cyria, sin embargo, pretende destruirla. Yo no soy una infiel, madre. Las infieles sois vosotras.
 
 Cyria se puso en pie, no sin esfuerzo. Katerina hizo lo propio, empuñando el cuchillo que había utilizado para liberarse de sus ataduras. Ambas estaban muy débiles. Una de las matriarcas, la que no portaba el Ojo de Dagrun, se volvió hacia Katerina y le arrebató el cuchillo con facilidad, situándose tras ella y apretando la hoja contra el cuello de la condotiera. En esos momentos, era bastante más fuerte que ella.
+
 La asesina, desde el rincón, iba volviendo lentamente en sí. Aquel fogonazo ennegrecido causó un grave impacto que le quitó todas sus fuerzas de un plumazo, pero el efecto, poco a poco, se estaba diluyendo. Cuando tuvo energía suficiente para hablar, consiguió articular un grito ahogado dirigido a Vididi:
 
 — Coge... el Ojo...
@@ -129,6 +137,7 @@ La asesina asintió. La Daga de Dagrun seguía brillando, podía sentir cómo el
 — ¡Ánima que vaga, escapa de la daga!
 
 El cuerpo de Lady Katerina sufrió un enérgico espasmo. Comenzó a convulsionar, Viridi apenas podía sujetarla, tenía que hacer un gran esfuerzo para no soltarla. Cyria extrajo la daga de su cuerpo, y contempló con asombro cómo la herida de su pecho se cerraba, seguida del tajo que le cruzaba la garganta, que pasó de ser un corte abierto a convertirse en una tenue cicatriz rosada.
+
 Mirando con terror la daga, Cyria le arrancó el Ojo y tiró el arma al suelo. Se arrodilló y se cubrió el rostro con sus manos, sintiéndose sucia, contaminada, corrompida. Una horrible sensación se apoderó de ella. Lo que había hecho la había privado de cualquier atisbo de humanidad que quedara en su interior, si es que aún quedaba algo.
 
 — Tenemos que salir de aquí —susurró Viridi, vistiendo de nuevo a la condotiera, que se retorcía levemente, despertando poco a poco.
