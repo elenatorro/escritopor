@@ -9,6 +9,9 @@ const {
 exports.handler = function (event) {
   const url = `${TINYBIRD_API}?name=${TINYBIRD_DATASOURCE_NAME}&wait=false`
 
+  console.log('#Netlify event', event)
+  console.log('#Netlify event body', JSON.parse(event.body))
+
   const request = {
     method: 'POST',
     body: JSON.parse(event.body),
