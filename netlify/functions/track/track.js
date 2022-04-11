@@ -35,6 +35,7 @@ function onSuccess(res) {
 }
 
 function onError(error) {
+  console.log('#Netlify error', error)
   return {
     statusCode: 422,
     body: JSON.stringify(error)
