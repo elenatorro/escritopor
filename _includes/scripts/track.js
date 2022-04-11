@@ -9,7 +9,7 @@ function track() {
     'language': navigator.language,
     'languages': JSON.stringify(navigator.languages),
     'useragent': navigator.userAgent,
-    'referrer': document.reeferrer,
+    'referrer': document.referrer,
     'href': location.href,
     'origin': location.origin,
     'screenx': window.screenX,
