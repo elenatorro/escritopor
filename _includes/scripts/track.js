@@ -4,7 +4,6 @@ function track() {
 
   const data = {
     'event': 'load',
-    'date': currentDate.toLocaleDateString(),
     'timestamp': currentDate.toISOString(),
     'language': navigator.language || 'unknown',
     'languages': JSON.stringify(navigator.languages) || 'unknown',
