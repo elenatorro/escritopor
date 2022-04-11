@@ -12,8 +12,8 @@ function track() {
     'referrer': document.reeferrer,
     'href': location.href,
     'origin': location.origin,
-    'screen-x': window.screenX,
-    'screen-y': window.screenY
+    'screenx': window.screenX,
+    'screeny': window.screenY
   }
 
   fetch(url, {
