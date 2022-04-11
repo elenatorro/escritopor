@@ -6,14 +6,14 @@ function track() {
     'event': 'load',
     'date': currentDate.toLocaleDateString(),
     'timestamp': currentDate.toISOString(),
-    'language': navigator.language,
-    'languages': JSON.stringify(navigator.languages),
-    'useragent': navigator.userAgent,
-    'referrer': document.referrer,
-    'href': location.href,
-    'origin': location.origin,
-    'screenx': window.screenX,
-    'screeny': window.screenY
+    'language': navigator.language || 'unknown',
+    'languages': JSON.stringify(navigator.languages) || 'unknown',
+    'useragent': navigator.userAgent || 'unknown',
+    'referrer': document.referrer || 'unknown',
+    'href': location.href || 'unknown',
+    'origin': location.origin || 'unknown',
+    'screenx': window.screenX || 0,
+    'screeny': window.screenY || 0
   }
 
   fetch(url, {
