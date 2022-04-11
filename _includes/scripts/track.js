@@ -1,5 +1,5 @@
 function track() {
-  const url = 'https://escritopor.elenatorro.com/.netlify/functions/track';
+  const url = 'https://escritopor.elenatorro.com/netlify/functions/track';
   const currentDate = new Date(Date.now())
 
   const data = {
