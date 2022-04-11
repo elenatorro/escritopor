@@ -11,7 +11,7 @@ exports.handler = function (event) {
 
   const request = {
     method: 'POST',
-    body: JSON.parse(event.body),
+    body: event.body,
     headers: {
       'Accept': 'application/json',
       'Authorization': `Bearer ${TINYBIRD_TOKEN}`
