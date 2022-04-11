@@ -1,6 +1,7 @@
 function track() {
-  const url = '/.netlify/functions/track';
+  const url = '/.netlify/functions/track'
   const currentDate = new Date(Date.now())
+  const theme = localStorage.getItem('theme')
 
   const data = {
     'event': 'load',
@@ -12,7 +13,8 @@ function track() {
     'href': location.href || 'unknown',
     'origin': location.origin || 'unknown',
     'screenx': window.screenX || 0,
-    'screeny': window.screenY || 0
+    'screeny': window.screenY || 0,
+    'theme': theme
   }
 
   fetch(url, {
