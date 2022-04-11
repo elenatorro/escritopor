@@ -22,9 +22,14 @@ exports.handler = function (event) {
   }
 
   return fetch(url, request)
-    .then(response => response.json())
+    .then(onResponse)
     .then(onSuccess)
     .catch(onError)
+}
+
+function onResponse(res) {
+  console.log('#Netlify ok', res)
+  return true
 }
 
 function onSuccess(res) {
