@@ -14,7 +14,7 @@ function track() {
     'origin': location.origin || 'unknown',
     'screenx': window.screenX || 0,
     'screeny': window.screenY || 0,
-    'theme': theme
+    'theme': theme || 'light-mode'
   }
 
   fetch(url, {
