@@ -91,13 +91,18 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("proyectos", function(collection) {
     const proyectos = new Set();
 
-    collection.getAll().forEach(item => {
-      (item.data.tags || []).forEach(tag => {
-        if (tag.includes('wip')) {
-          proyectos.add(item)
-        }
-      });
-    });
+    collection
+      .getAll()
+      .sort((a, b) => {
+        return a.data.order - b.data.order
+      })
+      .forEach(item => {
+        (item.data.tags || []).forEach(tag => {
+          if (tag.includes('wip')) {
+            proyectos.add(item)
+          }
+        })
+      })
 
     return [...proyectos]
   })

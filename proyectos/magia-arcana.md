@@ -12,4 +12,5 @@ curiosities:
   - Ya sé todos los capítulos que tiene que tener, como mínimo, este primer libro 
 tags:
   - wip
+order: 2
 ---

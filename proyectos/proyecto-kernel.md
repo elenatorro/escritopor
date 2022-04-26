@@ -10,4 +10,5 @@ curiosities:
   - Se me ocurrió como posible relato para presentar al Premio Ripley, pero no sé si me dará tiempo
 tags:
   - wip
+order: 1
 ---
