@@ -1,7 +1,7 @@
 ---
 title: Una capa para La Parca
 description: La Parca necesita una nueva capa
-date: 2022-26-05
+date: 2022-05-26
 tags:
   - terror 💀
   - microrrelato 🤏📝
