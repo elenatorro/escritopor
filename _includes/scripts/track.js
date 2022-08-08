@@ -1,5 +1,5 @@
 async function getGeolocation() {
-  const url = 'https://elenatorro.com/geo'
+  const url = 'https://escritopor.elenatorro.com/geo'
   const res = await fetch(url)
   return await res.json()
 }
