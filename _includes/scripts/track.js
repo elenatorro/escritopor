@@ -65,7 +65,7 @@ async function getFingerprint() {
 }
 
 async function track() {
-  let fngrprt = localStorage.getItem('fingerprint', 'unknown')
+  let fngrprt = localStorage.getItem('fingerprint')
   const { geo } = await getGeolocation()
 
   try {
