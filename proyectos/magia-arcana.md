@@ -9,7 +9,8 @@ curiosities:
   - Es el primer libro de una trilogía
   - El título es provisional
   - Que haya distintas ramas mágicas y distintas maneras de comunicarse con la magia, está inspirado en los lenguajes de programación
-  - Ya sé todos los capítulos que tiene que tener, como mínimo, este primer libro 
+  - Ya sé todos los capítulos que tiene que tener, como mínimo, este primer libro
+  - El objetivo es tener el primer borrador terminado en el NaNoWriMo de 2022 🏋️‍♀️
 tags:
   - wip
 order: 2
