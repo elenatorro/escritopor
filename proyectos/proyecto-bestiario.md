@@ -2,7 +2,7 @@
 title: Proyecto Bestiario
 description: Conjunto de relatos cortos independientes que suceden en el mismo universo, cuyo nexo son los animales y criaturas alrededor de los cuáles gira cada historia
 goal: 25000
-current: 21217
+current: 25013
 nanowrimo: https://nanowrimo.org/participants/elena-torro/projects/proyecto-bestiario
 status: En proceso
 curiosities:
