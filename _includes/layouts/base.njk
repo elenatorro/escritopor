@@ -17,16 +17,17 @@
 
   <body>
     <header>
+
       <ul class="nav">
       {%- for entry in collections.all | eleventyNavigation %}
         <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
       {%- endfor %}
       </ul>
       <div class="toggle-container">
-      <label id="toggle-theme" class="switch">
-        <input type="checkbox" id="theme-switch" role="switch" aria-label="Switch between dark mode and light mode">
-        <span class="slider round"></span>
-      </label>
+        <label id="toggle-theme" class="switch">
+          <input type="checkbox" id="theme-switch" role="switch" aria-label="Switch between dark mode and light mode">
+          <span class="slider round"></span>
+        </label>
       </div>
     </header>
 

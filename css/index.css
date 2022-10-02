@@ -314,6 +314,10 @@ a[href].direct-link:focus:visited,
 }
 
 @media (max-width: 1300px) {
+  header {
+    flex-direction: column;
+  }
+
   .post-layout {
     flex-direction: column;
   }
