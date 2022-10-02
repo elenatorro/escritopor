@@ -1,0 +1,44 @@
+---
+layout: layouts/home.njk
+templateClass: tmpl-page
+---
+
+<h1>Escrito por Elena Torró</h1>
+
+<h2>Publicaciones</h2>
+
+{% set publicaciones = collections.publicaciones %}
+
+<ul class="postlist" style="counter-reset: start-from {{ (publicaciones.length) + 1 }}">
+{% for post in publicaciones | sorted %}
+  <li class="postlist-item">
+    <a href="{{ post.data.link }}" class="postlist-link" target="_blank"><h3>{{ post.data.title }}</h3></a>
+
+    {% if post.data.cover %}
+      {% set cover = "/img/" + post.data.cover %}
+      <a class="postlist-link book-container" href="{{ post.data.link }}" target="_blank">
+        <div class="book">
+          <img alt="Portada del libro" src="{{ cover | url }}">
+        </div>
+      </a>
+    {% endif %}
+    
+    <p>👉 <a href="{{ post.data.link }}" class="postlist-link" target="_blank">¡Quiero uno!</a></p>
+
+    <p>📃 Palabras: {{post.data.current}}</p>
+
+    {% if post.data.description %}
+    <p>🎬 Sinopsis: {{ post.data.description }}</p>
+    {% endif %}
+
+    {%- if post.data.curiosities %}
+        <p>💡 Curiosidades:</p>
+        <ul>
+        {%- for curiosity in post.data.curiosities %}
+          <li><p>{{ curiosity }}</p></li>
+        {%- endfor %}
+        </ul>
+    {%- endif %}
+  </li>
+{% endfor %}
+</ul>

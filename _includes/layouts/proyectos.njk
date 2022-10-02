@@ -13,6 +13,10 @@ templateClass: tmpl-page
   <li class="postlist-item">
     <a href="{{ post.data.nanowrimo }}" class="postlist-link" target="_blank"><h3>{{ post.data.title }}</h3></a>
 
+    {% if post.data.lektu %}
+      <p><a href="{{ post.data.lektu }}" class="postlist-link" target="_blank">👉📖 ¡Quiero uno!</a></p>
+    {% endif %}
+
     <p>📃 Palabras: {{post.data.current}}/{{post.data.goal}}</p>
 
     {% if post.data.status %}
@@ -31,7 +35,6 @@ templateClass: tmpl-page
         {%- endfor %}
         </ul>
     {%- endif %}
-
   </li>
 {% endfor %}
 </ul>

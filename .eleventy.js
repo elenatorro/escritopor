@@ -107,6 +107,25 @@ module.exports = function(eleventyConfig) {
     return [...proyectos]
   })
 
+  eleventyConfig.addCollection("publicaciones", function(collection) {
+    const publicaciones = new Set();
+
+    collection
+      .getAll()
+      .sort((a, b) => {
+        return a.data.order - b.data.order
+      })
+      .forEach(item => {
+        (item.data.tags || []).forEach(tag => {
+          if (tag.includes('published')) {
+            publicaciones.add(item)
+          }
+        })
+      })
+
+    return [...publicaciones]
+  })
+
   // Copy the `img` and `css` folders to the output
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");

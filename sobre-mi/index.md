@@ -4,7 +4,7 @@ title: Sobre mí
 templateClass: tmpl-page
 eleventyNavigation:
   key: Sobre mí
-  order: 3
+  order: 5
 ---
 
 <h1>Sobre mí</h1>
