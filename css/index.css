@@ -2,7 +2,7 @@
 :root {
   --lightgray: #e0e0e0;
   --gray: #C0C0C0;
-  --darkgray: #333;
+  --darkgray: #150f19;
   --navy: #17050F;
   --blue: #082840;
   --white: #fff;
@@ -256,6 +256,7 @@ a[href].post-tag:focus {
   background-color: #ffc;
   padding: 1em 0.625em; /* 16px 10px /16 */
 }
+
 .warning ol:only-child {
   margin: 0;
 }
@@ -313,6 +314,25 @@ a[href].direct-link:focus:visited,
   width: 90%
 }
 
+.news {
+  margin: 1em 0;
+  padding: 2em;
+  color: var(--darkgray);
+  background-color: #fdfdcf;
+}
+
+.news p {
+  padding: 0;
+}
+
+.news-details:hover {
+  cursor: pointer;  
+}
+
+.news-details p {
+  padding: 0;
+}
+
 @media (max-width: 1300px) {
   header {
     flex-direction: column;
@@ -346,14 +366,14 @@ a[href].direct-link:focus:visited,
 }
 
 .post-content {
-  padding: 5em 0;
+  padding: 3em 0;
 }
 
 .post-content p {
   width: 100%;
   max-width: 37em;
   text-align: left;
-  font-size: 18px;
+  font-size: 1.125em;
   line-height: 1.75;
   text-justify: initial;
   text-align: justify;
