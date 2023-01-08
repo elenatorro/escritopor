@@ -4,6 +4,7 @@ description: Oda a la magia lenta es una canción del mester de juglaría escrit
 date: 2023-01-08
 tags:
   - poesía 📝
+  - fantasía 🧙‍♀️
 layout: layouts/post.njk
 ---
 
